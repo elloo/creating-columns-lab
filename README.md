@@ -49,7 +49,7 @@ which they will align vertically.
 
 <div align="center"><br>
   <h4>What We Want</h4>
-  <img src="https://curriculum-content.s3.amazonaws.com/fewds-css/creating-columns-lab-complete.png" alt="drawing" width="200px"/>
+  <img src="https://curdriculum-content.s3.amazonaws.com/fewds-css/creating-columns-lab-complete.png" alt="drawing" width="200px"/>
 </div><br>
 
 
